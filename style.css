@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Arial';
-    background-image: url("/webimg.jpg");
+    background-image: url("/Intproject-1/webimg.jpg");
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -15,7 +15,7 @@ body {
   }
    .form-container {
    
-    background-image: url("/webimg.jpg");
+    background-image: url("/IntProject-1/webimg.jpg");
     background-size: cover;
     background-position: center;
     padding: 20px;
