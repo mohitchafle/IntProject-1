@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial';
+    background-image: url("/webimg.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+  }
+  h2{
+    text-decoration: underline;
+  }
+   .form-container {
+   
+    background-image: url("/webimg.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(6, 0, 0);
+    width: 300px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .form-group input {
+    width: 300px;
+    padding: 8px;
+    border: 1px solid #040000;
+    border-radius: 5px;
+    box-sizing: border-box;
+    display:inline;
+  }
+  
+  .form-group #checkbox {
+      width:25px;
+  }
+  
+  a{
+      color: #040000;
+  }
+  
+  .form-group button {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+   }
+  
+  
